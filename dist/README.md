@@ -1,6 +1,6 @@
 # BHW_manual (사용 설명서) 받는 법
 
-`BHW_manual.zip` 은 PPT 매크로 2.2.0 의 사용 설명서 폴더다. 자동 업데이트는 이 폴더를 가져오지 않으므로 직접 받아서 푼다.
+`BHW_manual.zip` 은 PPT 매크로 2.2.0 의 사용 설명서 폴더다. 2.2.1 부터 설치 프로그램과 자동 업데이트가 BHW_template·BHW_manual 을 함께 설치·갱신한다(수동 설치용 zip 은 아래 링크). 템플릿 팩 4개는 문서 보안(SCDSA004) 암호문 상태라 문서 보안이 있는 PC 에서만 읽힌다.
 
 1. `BHW_manual.zip` 을 내려받는다.
 2. 매크로 파일 바로 옆에 푼다. 애드인(.ppam)으로 쓰면 `%APPDATA%\Microsoft\AddIns\`, 아니면 `PPT_macro_v2.pptm` 이 있는 폴더.

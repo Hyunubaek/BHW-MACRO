@@ -1,7 +1,27 @@
 {
-    "version":  "2.2.0",
-    "file":  "dist/PPT_macro_2.2.0.ppam",
-    "sha256":  "1acf53b2487b66e6052c179146864562a93dff7a1442500674c84135ee8642be",
-    "notes":  "템플릿 선택 추가: 용지(A4 세로·A3 가로)와 프리셋을 골라 새 문서를 만듭니다\n사용 설명서 추가: 매크로별 그림 카드로 사용법을 볼 수 있습니다\n엑셀 내보내기에서 숫자와 앞자리 0 보존\n자동 업데이트·파일 처리 안전장치 강화(보안 점검 반영)",
-    "date":  "2026-11-16"
+    "version":  "2.2.1",
+    "file":  "dist/PPT_macro_2.2.1.ppam",
+    "sha256":  "332a496b00e1ae47148f1683b320168f162567a53e4b502e61262d16807502d3",
+    "notes":  "템플릿·사용 설명서 폴더를 설치 프로그램과 자동 업데이트가 함께 설치하고 갱신합니다\n애드인으로 설치한 PC에서 템플릿으로 새 문서가 템플릿 폴더를 찾지 못하던 문제 수정",
+    "date":  "2026-11-16",
+    "assets":  [
+                   {
+                       "name":  "BHW_template",
+                       "file":  "dist/BHW_template.zip",
+                       "sha256":  "a48bddf337824cdb198c4db036436de45ee3f90f75f32b2b45276ffcfe7684e7",
+                       "size":  4464588,
+                       "version":  "2.2.0",
+                       "files":  67,
+                       "unpacked":  5655735
+                   },
+                   {
+                       "name":  "BHW_manual",
+                       "file":  "dist/BHW_manual.zip",
+                       "sha256":  "4d4f37459dae43c43bbf0399156ee8ada4347b95ad290c3bc0c3a13b4dcefcca",
+                       "size":  44984934,
+                       "version":  "2.2.0",
+                       "files":  488,
+                       "unpacked":  52906870
+                   }
+               ]
 }
