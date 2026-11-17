@@ -8,11 +8,11 @@
                    {
                        "name":  "BHW_template",
                        "file":  "dist/BHW_template.zip",
-                       "sha256":  "a48bddf337824cdb198c4db036436de45ee3f90f75f32b2b45276ffcfe7684e7",
-                       "size":  4464588,
-                       "version":  "2.2.0",
+                       "sha256":  "fce1cc2d88d3e392b923e62e94f948264e8bab892298db59ab1d4723f74c3842",
+                       "size":  4401102,
+                       "version":  "2.2.1",
                        "files":  67,
-                       "unpacked":  5655735
+                       "unpacked":  5648535
                    },
                    {
                        "name":  "BHW_manual",
