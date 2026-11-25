@@ -1,8 +1,8 @@
 {
-    "version":  "2.2.5",
-    "file":  "dist/PPT_macro_2.2.5.ppam",
-    "sha256":  "ff0714702699472dc6ade13e44079977dab4803803e7dedc3e16a826dfe10d4d",
-    "notes":  "안내선: 이 창에서 한 작업은 PowerPoint의 Ctrl+Z로 되돌려지지 않습니다. 잘못되면 창 안의 [되돌리기]를 누르세요 (안내 문구와 안내 상자를 보강했습니다)\n숫자 칸: 한글을 치거나 붙여넣어도 칸에서 지워집니다 (영문은 2.2.4부터 입력되지 않습니다). 전각 숫자는 반각으로 바뀝니다\n단 수·행 수 칸은 정수만 들어갑니다",
+    "version":  "2.2.6",
+    "file":  "dist/PPT_macro_2.2.6.ppam",
+    "sha256":  "762b0704e3685fc9c901903c4610fa1adecb01cd37bf4e83bd0ca860139f3fec",
+    "notes":  "CAD 연결: AutoCAD 외에 ZWCAD도 찾습니다(ZWCAD 실제 동작은 확인 전). CAD 가져오기·보내기가 같은 방식으로 실행 중인 CAD에 연결하고, 둘 다 실행 중이면 고르는 창이 뜹니다\nZWCAD가 설치된 PC에서 실행 중인 CAD가 없으면 보내기가 AutoCAD를 새로 띄우지 않습니다. ZWCAD에서 지원하지 않거나 다르게 동작하는 기능은 안내 문구로 알려 줍니다\n한 CAD만 실행 중이면 기존과 같습니다. 가져올 때 색 변환이 안 되면 내장 색 표를 쓰고, 보낼 때 색 적용이 안 되면 결과 창에 알리며 도형 전체나 일부(글자 줄·채움)가 기본 색일 수 있습니다",
     "date":  "2026-11-25",
     "assets":  [
                    {
@@ -17,11 +17,11 @@
                    {
                        "name":  "BHW_manual",
                        "file":  "dist/BHW_manual.zip",
-                       "sha256":  "4d4f37459dae43c43bbf0399156ee8ada4347b95ad290c3bc0c3a13b4dcefcca",
-                       "size":  44984934,
-                       "version":  "2.2.0",
+                       "sha256":  "63383e145f63d352651636d0e75b232bc75c5c1fb869ad18ac44896afde501cc",
+                       "size":  45039672,
+                       "version":  "2.2.1",
                        "files":  488,
-                       "unpacked":  52906870
+                       "unpacked":  52953688
                    }
                ]
 }
